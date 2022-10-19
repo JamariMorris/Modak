@@ -17,6 +17,7 @@
 		5122C53628F270DF00FF90B1 /* ModakUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5122C53528F270DF00FF90B1 /* ModakUITestsLaunchTests.swift */; };
 		5122C54328F2823500FF90B1 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5122C54228F2823500FF90B1 /* LoginViewController.swift */; };
 		5122C54528F2825500FF90B1 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5122C54428F2825500FF90B1 /* FeedViewController.swift */; };
+		5162EC9B28FDD922005B3CB9 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5162EC9A28FDD922005B3CB9 /* CommentCell.swift */; };
 		51EC7D3B28F4B13C00023CEB /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51EC7D3A28F4B13C00023CEB /* CameraViewController.swift */; };
 		51EC7D3D28F4D0B100023CEB /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51EC7D3C28F4D0B100023CEB /* PostCell.swift */; };
 		8EBD8848D9F0D29EFA73CD77 /* Pods_Modak_ModakUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED18EC20F339D105C9C98282 /* Pods_Modak_ModakUITests.framework */; };
@@ -60,6 +61,7 @@
 		5122C53528F270DF00FF90B1 /* ModakUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModakUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		5122C54228F2823500FF90B1 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		5122C54428F2825500FF90B1 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		5162EC9A28FDD922005B3CB9 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		51EC7D3A28F4B13C00023CEB /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		51EC7D3C28F4D0B100023CEB /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		7385AD0CFB0EC3C164ACF59E /* Pods-ModakTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ModakTests.debug.xcconfig"; path = "Target Support Files/Pods-ModakTests/Pods-ModakTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				5122C54428F2825500FF90B1 /* FeedViewController.swift */,
 				51EC7D3A28F4B13C00023CEB /* CameraViewController.swift */,
 				51EC7D3C28F4D0B100023CEB /* PostCell.swift */,
+				5162EC9A28FDD922005B3CB9 /* CommentCell.swift */,
 			);
 			path = Modak;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				5122C54528F2825500FF90B1 /* FeedViewController.swift in Sources */,
 				5122C51528F270DD00FF90B1 /* SceneDelegate.swift in Sources */,
 				51EC7D3D28F4D0B100023CEB /* PostCell.swift in Sources */,
+				5162EC9B28FDD922005B3CB9 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

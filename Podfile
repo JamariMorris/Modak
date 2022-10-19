@@ -8,6 +8,7 @@ target 'Modak' do
   # Pods for Modak
   pod 'AlamofireImage'
   pod 'Parse'
+  pod 'MessageInputBar'
 
   target 'ModakTests' do
     inherit! :search_paths
